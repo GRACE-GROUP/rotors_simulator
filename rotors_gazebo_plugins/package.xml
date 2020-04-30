@@ -40,7 +40,6 @@
 
   <!-- Dependencies needed after this package is compiled. -->
   <run_depend>cv_bridge</run_depend>
-  <run_depend>gazebo_dev</run_depend>
   <run_depend>gazebo_ros</run_depend>
   <run_depend>geometry_msgs</run_depend>
   <run_depend>libgoogle-glog-dev</run_depend>
